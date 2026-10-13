@@ -1,0 +1,236 @@
+[
+  {
+    "file": "/images/products/arduino-uno-r3.jpg",
+    "title": "Arduino Uno - R3.jpg",
+    "author": "SparkFun Electronics from Boulder, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg"
+  },
+  {
+    "file": "/images/products/arduino-uno-r4-minima.jpg",
+    "title": "Arduino Uno R4 Minima perspective.webp",
+    "author": "Arduino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_R4_Minima_perspective.webp"
+  },
+  {
+    "file": "/images/products/arduino-uno-r4-wifi.jpg",
+    "title": "Arduino Uno R4 WiFi perspective.webp",
+    "author": "Arduino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_R4_WiFi_perspective.webp"
+  },
+  {
+    "file": "/images/products/arduino-nano-compatible.jpg",
+    "title": "Arduino Nano V3.0.JPG",
+    "author": "Mauricio V. Genta",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Nano_V3.0.JPG"
+  },
+  {
+    "file": "/images/products/arduino-mega-2560-r3.jpg",
+    "title": "Arduino MEGA 2560 R3, front side.jpg",
+    "author": "Dsimic",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_MEGA_2560_R3,_front_side.jpg"
+  },
+  {
+    "file": "/images/products/esp32-devkitc-v4.jpg",
+    "title": "ESP32 Espressif ESP-WROOM-32 Dev Board.jpg",
+    "author": "Ubahnverleih",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg"
+  },
+  {
+    "file": "/images/products/hc-sr04-ultrasonic.jpg",
+    "title": "HC SR04 Ultrasonic Module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_Module.jpg"
+  },
+  {
+    "file": "/images/products/dht11-temp-humidity.jpg",
+    "title": "Dht11.jpg",
+    "author": "Edwiyanto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dht11.jpg"
+  },
+  {
+    "file": "/images/products/hc-sr501-pir.jpg",
+    "title": "PIR sensor for arduino.jpg",
+    "author": "Nowforever",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PIR_sensor_for_arduino.jpg"
+  },
+  {
+    "file": "/images/products/soil-moisture-sensor.jpg",
+    "title": "SparkFun Soil Moisture Sensor (with Screw Terminals)",
+    "author": "SparkFun Electronics",
+    "license": "CC BY 2.0",
+    "source": "https://www.flickr.com/photos/41898857@N04/35799069006",
+    "note": "SparkFun 토양 수분 센서 사진(같은 포크형 프로브 방식)으로 대체"
+  },
+  {
+    "file": "/images/products/mpu-6050-gy-521.jpg",
+    "title": "GY-521 MPU-6050 Module 3 Axis Gyroscope + Accelerometer 0487.jpg",
+    "author": "Nevit Dilmen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:GY-521_MPU-6050_Module_3_Axis_Gyroscope_%2B_Accelerometer_0487.jpg"
+  },
+  {
+    "file": "/images/products/sg90-servo.jpg",
+    "title": "Tower Pro SG90 micro servo motor.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Pro_SG90_micro_servo_motor.jpg"
+  },
+  {
+    "file": "/images/products/stepper-28byj-48-uln2003.jpg",
+    "title": "28BYJ-48 unipolar stepper motor with ULN2003 driver.jpg",
+    "author": "Kushagra Keshari",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg"
+  },
+  {
+    "file": "/images/products/relay-module-1ch-5v.jpg",
+    "title": "SRD-05VDC-SL-C 5V one-channel relay module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SRD-05VDC-SL-C_5V_one-channel_relay_module.jpg"
+  },
+  {
+    "file": "/images/products/l298n-motor-driver.jpg",
+    "title": "18650供電給Arduino&L298N",
+    "author": "kenming Wang",
+    "license": "CC BY-SA 2.0",
+    "source": "https://www.flickr.com/photos/12882975@N00/13950424107",
+    "note": "L298 기반 듀얼 H-브리지 모듈(YFRobot) 사진으로 대체"
+  },
+  {
+    "file": "/images/products/lcd-1602-i2c.jpg",
+    "title": "16x2 Character LCD Display.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:16x2_Character_LCD_Display.jpg",
+    "note": "16x2 문자 LCD 사진(I2C 변환 보드는 보이지 않음)"
+  },
+  {
+    "file": "/images/products/oled-096-ssd1306.jpg",
+    "title": "Orange Pi Zero I2C OLED display",
+    "author": "kasparsdambis",
+    "license": "CC BY 2.0",
+    "source": "https://www.flickr.com/photos/87890875@N06/36735944063",
+    "note": "0.96인치 I2C OLED 모듈 사진(다른 보드에 연결된 상태)"
+  },
+  {
+    "file": "/images/products/max7219-dot-matrix.jpg",
+    "title": "8x8 Bicolour LED Matrix.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:8x8_Bicolour_LED_Matrix.jpg",
+    "note": "8x8 LED 매트릭스 단품 사진(MAX7219 보드 제외)으로 대체"
+  },
+  {
+    "file": "/images/products/breadboard-830.jpg",
+    "title": "Breadboard 2.jpg",
+    "author": "Maskaravivek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Breadboard_2.jpg"
+  },
+  {
+    "file": "/images/products/jumper-wire-mm-40p.jpg",
+    "title": "A few Jumper Wires.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_few_Jumper_Wires.jpg"
+  },
+  {
+    "file": "/images/products/led-kit-6.jpg",
+    "title": "LED Rainbow Pack - 5mm PTH 12903-01.jpg",
+    "author": "SparkFun Electronics",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LED_Rainbow_Pack_-_5mm_PTH_12903-01.jpg",
+    "note": "5mm LED 사진"
+  },
+  {
+    "file": "/images/products/resistor-kit-14.jpg",
+    "title": "Electronic-Axial-Lead-Resistors-Array.jpg",
+    "author": "Evan-Amos",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg"
+  },
+  {
+    "file": "/images/products/arduino-starter-kit-korean.jpg",
+    "title": "Arduino Starter Kit en Castellano",
+    "author": "Ultra-lab",
+    "license": "CC BY-SA 2.0",
+    "source": "https://www.flickr.com/photos/62141688@N08/16624491097",
+    "note": "아두이노 스타터 키트 스페인어판 사진(구성 동일, 가이드북 언어만 다름)"
+  },
+  {
+    "file": "/images/products/keyes-beginner-kit.jpg",
+    "title": "ARDX - Arduino Experimentation Kit (Inside the box).jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ARDX_-_Arduino_Experimentation_Kit_(Inside_the_box).jpg",
+    "note": "유사 구성의 아두이노 실습 키트(ARDX) 사진으로 대체"
+  },
+  {
+    "file": "/images/hero-1.jpg",
+    "title": "Arduino & breadboard, mounted.jpg",
+    "author": "TreyDanger",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_%26_breadboard,_mounted.jpg"
+  },
+  {
+    "file": "/images/hero-2.jpg",
+    "title": "Arduino UNO + HC-SR04 + HC 05 + breadboard - side view 01.jpg",
+    "author": "Pradana Aumars",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_UNO_%2B_HC-SR04_%2B_HC_05_%2B_breadboard_-_side_view_01.jpg"
+  },
+  {
+    "file": "/images/categories/boards.jpg",
+    "title": "Arduino Uno - R3.jpg",
+    "author": "SparkFun Electronics from Boulder, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg"
+  },
+  {
+    "file": "/images/categories/sensors.jpg",
+    "title": "HC SR04 Ultrasonic Module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_Module.jpg"
+  },
+  {
+    "file": "/images/categories/actuators.jpg",
+    "title": "Tower Pro SG90 micro servo motor.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Pro_SG90_micro_servo_motor.jpg"
+  },
+  {
+    "file": "/images/categories/displays.jpg",
+    "title": "16x2 Character LCD Display.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:16x2_Character_LCD_Display.jpg",
+    "note": "16x2 문자 LCD 사진(I2C 변환 보드는 보이지 않음)"
+  },
+  {
+    "file": "/images/categories/parts.jpg",
+    "title": "Breadboard 2.jpg",
+    "author": "Maskaravivek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Breadboard_2.jpg"
+  },
+  {
+    "file": "/images/categories/kits.jpg",
+    "title": "ARDX - Arduino Experimentation Kit (Inside the box).jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ARDX_-_Arduino_Experimentation_Kit_(Inside_the_box).jpg",
+    "note": "유사 구성의 아두이노 실습 키트(ARDX) 사진으로 대체"
+  }
+]

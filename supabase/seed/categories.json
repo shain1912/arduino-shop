@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "boards",
+    "name": "아두이노 보드",
+    "description": "아두이노 정품·호환 보드와 ESP32 개발보드",
+    "image": "/images/categories/boards.jpg",
+    "sort_order": 1
+  },
+  {
+    "slug": "sensors",
+    "name": "센서",
+    "description": "거리, 온습도, 인체감지, 토양 습도, 기울기 센서 모듈",
+    "image": "/images/categories/sensors.jpg",
+    "sort_order": 2
+  },
+  {
+    "slug": "actuators",
+    "name": "모터·액추에이터",
+    "description": "서보·스텝모터, 릴레이, 모터 드라이버",
+    "image": "/images/categories/actuators.jpg",
+    "sort_order": 3
+  },
+  {
+    "slug": "displays",
+    "name": "디스플레이",
+    "description": "문자 LCD, OLED, LED 도트 매트릭스",
+    "image": "/images/categories/displays.jpg",
+    "sort_order": 4
+  },
+  {
+    "slug": "parts",
+    "name": "부품·공구",
+    "description": "브레드보드, 점퍼 케이블, LED, 저항 등 기초 부품",
+    "image": "/images/categories/parts.jpg",
+    "sort_order": 5
+  },
+  {
+    "slug": "kits",
+    "name": "키트",
+    "description": "처음 시작하는 사람을 위한 아두이노 학습 키트",
+    "image": "/images/categories/kits.jpg",
+    "sort_order": 6
+  }
+]
